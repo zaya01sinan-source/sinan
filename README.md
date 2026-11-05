@@ -1,0 +1,2 @@
+# sinan
+maku odev
